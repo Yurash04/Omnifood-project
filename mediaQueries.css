@@ -89,6 +89,7 @@
     .mobile-nav-icon {
         display: inline-block;
         color: white;
+        margin-top: 20px;
     }
 
     .main-nav {
@@ -201,12 +202,12 @@
     .lower-nav { width: auto; }
     .footer-sm { 
         width: auto; 
-        padding-left: 60px;
+        padding-left: 20px;
     }
 
     .footer-nav li,
     .social-links li {
-        margin-right: 10px;
+        margin-right: 2px;
         margin-bottom: 8px;
     }
 
