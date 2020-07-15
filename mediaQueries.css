@@ -228,5 +228,26 @@
 
 }
 
+.lower-nav { width: auto; }
+    .footer-sm { 
+        width: auto; 
+        padding-left: 20px;
+    }
+
+    .footer-nav li,
+    .social-links li {
+        margin-right: 50px;
+        margin-bottom: 8px;
+    }
+
+    footer p {
+        color: #888;
+        text-align: center;
+        font-size: 100%;
+        margin-top: 10px;
+        margin-bottom: 5px;
+
+    }
+
 
 
