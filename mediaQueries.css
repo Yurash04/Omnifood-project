@@ -226,11 +226,15 @@
         text-align: center;
     }
 
+    .social-links { 
+        width: 100%;
+        text-align: center;
+    }
+
     .footer-nav li,
     .social-links li {
         margin-right: 10px;
         margin-bottom: 8px;
-        width: 100%;
         text-align: center;
     }
 
