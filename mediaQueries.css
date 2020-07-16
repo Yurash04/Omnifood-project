@@ -89,7 +89,7 @@
     .mobile-nav-icon {
         display: inline-block;
         color: white;
-        margin-top: 42.05px;
+        margin-top: 52.4px;
     }
 
     .main-nav {
@@ -118,7 +118,10 @@
 
     .sticky .main-nav li a:link,
     .sticky .main-nav li a:visited { padding: 5px 0; }
-    .sticky .mobile-nav-icon { color: #555; }
+    .sticky .mobile-nav-icon { 
+        color: #555;
+        margin-top: 20px;
+    }
     .sticky .main-nav { margin: 5px 0; }
 
 
@@ -167,7 +170,7 @@
     }
 
     .section-testimonials {
-        height: 620px;
+        height: 590px;
         color: white;
         background-attachment: fixed;
     }
@@ -202,10 +205,13 @@
         font-weight: 200;
         color: #e67e22;
     }
+    .plan-price p {
+        font-weight: 200;
+    }
     
     .plan-price span {
         font-size: 50%;
-        font-weight: 300;
+        font-weight: 200;
     }
 
     .col { margin: 0 0 1% 1.6%; }
