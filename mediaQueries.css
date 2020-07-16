@@ -194,6 +194,10 @@
         margin-top: 5px;
     }
 
+    .plan-box ul li {
+        font-size: 80%;
+    }
+
     .plan-box {
         width: 95%;
         margin: 0 auto;
@@ -210,7 +214,7 @@
     }
     
     .plan-price span {
-        font-size: 50%;
+        font-size: 40%;
         font-weight: 200;
     }
 
