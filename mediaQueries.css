@@ -170,7 +170,7 @@
     }
 
     .section-testimonials {
-        height: 620px;
+        height: 640px;
         color: white;
         background-attachment: fixed;
     }
@@ -214,8 +214,8 @@
     }
     
     .plan-price span {
-        font-size: 60%;
-        font-weight: 300;
+        font-size: 50%;
+        font-weight: 200;
     }
 
     .col { margin: 0 0 1% 1.6%; }
