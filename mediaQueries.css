@@ -89,7 +89,7 @@
     .mobile-nav-icon {
         display: inline-block;
         color: white;
-        margin-top: 20px;
+        margin-top: 42.05px;
     }
 
     .main-nav {
@@ -195,11 +195,23 @@
         width: 95%;
         margin: 0 auto;
     }
+    
+    .plan-price {
+        font-size: 350%;
+        margin-bottom: 10px;
+        font-weight: 200;
+        color: #e67e22;
+    }
+    
+    .plan-price span {
+        font-size: 50%;
+        font-weight: 300;
+    }
 
     .col { margin: 0 0 1% 1.6%; }
     .col:first-child { margin-left: 1.6% }
     
-  .lower-nav { width: auto; }
+    .lower-nav { width: auto; }
     .footer-sm { 
         width: auto; 
         padding-left: 60px;
@@ -217,7 +229,6 @@
         font-size: 100%;
         margin-top: 10px;
         margin-bottom: 5px;
-
     }
 }
 
@@ -225,7 +236,7 @@
 /* Small phones from 0 to 480px width */
 @media only screen and (max-width: 480px) {
 
-    section { padding: 25px; }
+    section { padding: 20px; }
 
 }
 
