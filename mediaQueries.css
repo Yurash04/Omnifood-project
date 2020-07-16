@@ -224,6 +224,7 @@
     .footer-sm { 
         width: 100%; 
         text-align: center;
+        float: none;
     }
 
     .footer-nav li,
