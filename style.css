@@ -638,6 +638,11 @@ input[type=submit] {
     -o-transition: background-color 0.2s, color 0.2s, border 0.2s;
 }
 
+input[type=submit] {
+    background-color: #e67e22;
+    color: #fff;
+}
+
 .btn-full:link,
 .btn-full:visited {
     background-color: #e67e22;
